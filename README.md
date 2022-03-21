@@ -6,7 +6,7 @@ This project performs topic modeling on essays and short stories from the New Yo
 
 ### Data and Design
 
-The data for this project was acquired from the New York Times' website via its API (see code [here](https://github.com/chloebs4590/NLP-Unsupervised-Learning/blob/master/NY%20Times%20API%20data%20extraction.ipynb)) and web scraping (see code [here](https://github.com/chloebs4590/NLP-Unsupervised-Learning/blob/master/Essays%20Web%20Scraping.ipynb)). The dataset is saved in a csv file linked [here] (https://github.com/chloebs4590/NLP-Unsupervised-Learning/blob/master/modern_love_df.csv).
+The data for this project was acquired from the New York Times' website via its API (see code [here](https://github.com/chloebs4590/NLP-Unsupervised-Learning/blob/master/NY%20Times%20API%20data%20extraction.ipynb)) and web scraping (see code [here](https://github.com/chloebs4590/NLP-Unsupervised-Learning/blob/master/Essays%20Web%20Scraping.ipynb)). The dataset is saved in a csv file linked [here](.../blob/master/modern_love_df.csv).
 
 After data acquisition, the dataset was first cleaned to remove pieces that weren't essays or short stories (i.e., they were podcast transcriptions or announcements about the column). Ultimately, there were 1458 essasy/short stories in the cleaned dataset.
 
