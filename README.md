@@ -33,4 +33,4 @@ Fit and tuned LDA, NMF and CorEx models. A tuned NMF model was chosen as the fin
 
 ### Communication
 
-The presentation for this project is saved in this project's repo. The visualization created in Tableau is saved [here] (https://public.tableau.com/app/profile/chloe.bergsma.safar/viz/ChartforMetis5Project-NLPandUnsupervisedLearning/ofDocsperTopicDash?publish=yes).
+The presentation for this project is saved in this project's repo. The visualization created in Tableau is saved [here](https://public.tableau.com/app/profile/chloe.bergsma.safar/viz/ChartforMetis5Project-NLPandUnsupervisedLearning/ofDocsperTopicDash?publish=yes).
