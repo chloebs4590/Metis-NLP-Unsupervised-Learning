@@ -2,7 +2,7 @@
 
 ### Abstract:
 
-This project performs topic modeling on essays and short stories from the New York Times'[Modern Love](https://www.nytimes.com/column/modern-love) column. The objective was to identify interpretable topics that can be used to help the New York Times add topic links to their website so users can have more guided options for filtering their searches.
+This project performs topic modeling on essays and short stories from the New York Times' [Modern Love](https://www.nytimes.com/column/modern-love) column. The objective was to identify interpretable topics that can be used to help the New York Times add topic links to their website so users can have more guided options for filtering their searches.
 
 ### Data and Design
 
